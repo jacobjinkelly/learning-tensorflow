@@ -1,5 +1,6 @@
 # Directories #
 temp/
+MNIST-data/
 
 # Packages #
 *.gz
