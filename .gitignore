@@ -1,0 +1,10 @@
+# Directories #
+temp/
+
+# Packages #
+*.gz
+
+
+# OS Generated Files #
+.DS_Store
+.DS_Store?
