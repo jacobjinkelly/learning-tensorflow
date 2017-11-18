@@ -153,7 +153,7 @@ def main(_):
             )
         print('test accuracy %g' % accuracy.eval(feed_dict =
             {x: mnist.test.images,
-            y: mnist.test.labels,
+            y_: mnist.test.labels,
             keep_prob: 1}
         ))
 
