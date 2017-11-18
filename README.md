@@ -1,7 +1,7 @@
 # learning-tensorflow
 
-A repository of completed / in-progress Tensorflow tutorials.
+A repository of completed / in-progress TensorFlow tutorials.
 
-Open Tensorflow:
+Open TensorFlow:
 
     $ source ~/tensorflow/bin/activate
