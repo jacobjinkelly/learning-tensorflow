@@ -187,7 +187,5 @@ def main(unused_argv):
     print(eval_results)
 
 # Our application logic will be added here
-# if __name__ == 'main':
-#     tf.app.run()
-
-tf.app.run()
+if __name__ == '__main__':
+    tf.app.run()
