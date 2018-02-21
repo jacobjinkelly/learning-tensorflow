@@ -2,6 +2,9 @@
 
 A repository of completed / in-progress TensorFlow tutorials.
 
-Open TensorFlow:
+Open TensorFlow (in virtualenv):
 
     $ source ~/tensorflow/bin/activate
+
+Close TensorFlow:
+    $ deactivate
