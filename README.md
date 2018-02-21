@@ -7,4 +7,5 @@ Open TensorFlow (in virtualenv):
     $ source ~/tensorflow/bin/activate
 
 Close TensorFlow:
+
     $ deactivate
